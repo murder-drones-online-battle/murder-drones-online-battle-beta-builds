@@ -12,8 +12,7 @@ how to open the file
 
 5.click "load custom extension"	
 
-6.copy and paste this urlhttps://extensions.turbowarp.org/TheShovel/ShovelUtils.js	
-
+6.copy and paste this url https://extensions.turbowarp.org/TheShovel/ShovelUtils.js	
 
 7.click "load"	
 
