@@ -26,3 +26,5 @@ how to open the file
 11.open the game file	
 
 12.enjoy
+
+note:the flag is how you start it
