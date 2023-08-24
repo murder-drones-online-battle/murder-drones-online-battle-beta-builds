@@ -1,4 +1,4 @@
-# murder-drones-online-battle
+# murder-drones-online-battle-beta-builds
 how to open the file
 
 1.unzip the zip file
